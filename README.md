@@ -42,4 +42,9 @@ Data for this study is collected from November 18th 2011 to January 1st 2019 fro
 ![image](https://user-images.githubusercontent.com/49945980/205475642-86d1a91f-9110-4068-a76d-a3a79a9aceea.png)
 
 
+# Team
 
+*   Hariom Vyas
+*   Krutal Patel
+*   Viral Jani
+*   Durga Siva Sai Verma Rudraraju
